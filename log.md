@@ -16,7 +16,7 @@
 
 **Thoughts**: I'm getting used to taking a methodical approach to coding problems. I had to research the operators and methods I used. I tested a couple of solutions logically before Solving it.
 
-**Link to work**: [Extentions] <!--(http://www.example.com)-->
+**Link to work**: [Extentions.py] <!--(http://www.example.com)-->
 
 
 ### Day 1: June 27, Monday
