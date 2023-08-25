@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### -Day 0: August 22, 2023
+### <u>Day 0: August 22, 2023</u>
 <!--##### (delete me or comment me out)-->
 
 **Today's Progress**: Fixed the Python program that I was simplifying, the task is from the CS50P course that I'm working through
@@ -9,7 +9,7 @@
 
 **Link to work:** [Bank.py](https://github.com/code50/128825567/blob/main/py/week1/bank/bank.py)
 
-### -Day 1: August 23, 2023
+### <u>Day 1: August 23, 2023</u>
 <!---##### (delete me or comment me out)--->
 
 **Today's Progress**: Worked on a Python program that prints the media type of an inputted file name.
@@ -18,7 +18,7 @@
 
 **Link to work**: [Extentions.py] <!--(http://www.example.com)-->
 
-### -Day 2: August 24, 2023
+### <u>Day 2: August 24, 2023</u>
 <!---##### (delete me or comment me out)--->
 
 **Today's Progress**: I continued working on a Python program that prints the media type of an inputted file name.
@@ -27,12 +27,20 @@
 
 **Link to work**: [Extentions.py] <!--(http://www.example.com)-->
 
-### -Day 3: August 25, 2023
+### <u>Day 3: August 25, 2023</u>
 <!---##### (delete me or comment me out)--->
 
-**Today's Progress**:
+**Today's Progress**: I focused on learning how to use 'in' and '.find( )' in condition statements  
 
-**Thoughts**: 
+**Thoughts**: There were a lot of learning moments, Times when a new method just clicked and my code ran correctly. It was valuable for me at my stage of learning to explore several ways to solve this problem.
 
-**Link to work**: [Extentions.py] <!--(http://www.example.com)-->
+**Link to work**: [Extentions.py](http://www.com)
 
+### <u>Day 4: August 26, 2023</u>
+<!---##### (delete me or comment me out)--->
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+<!--**Link to work**: [Extentions.py] (http://www.example.com)-->
