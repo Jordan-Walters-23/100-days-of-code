@@ -39,6 +39,15 @@
 ### <u>Day 4: August 26, 2023</u>
 <!---##### (delete me or comment me out)--->
 
+**Today's Progress**: I started Using conditions in my program, specifically while loops. I saw a forum entry that was focused on using while loops to count substrings within a string. This could be done easily with '.count( )' but it was an interesting exercise.
+
+**Thoughts**: Programming is becoming intuitive and enjoyable for me. I see its value as a versatile problem solving tool.
+
+<!--**Link to work**: [Extentions.py] (http://www.example.com)-->
+
+### <u>Day 5: August 27, 2023</u>
+<!---##### (delete me or comment me out)--->
+
 **Today's Progress**: 
 
 **Thoughts**:
