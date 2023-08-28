@@ -16,7 +16,7 @@
 
 **Thoughts**: I'm getting used to taking a methodical approach to coding problems. I had to research the operators and methods I used. I tested a couple of solutions logically before Solving it.
 
-**Link to work**: [Extentions.py] <!--(http://www.example.com)-->
+<!--**Link to work**: [Extentions.py](http://www.example.com)-->
 
 ### <u>Day 2: August 24, 2023</u>
 <!---##### (delete me or comment me out)--->
@@ -25,7 +25,7 @@
 
 **Thoughts**: This task has made me work on my use of variables an learn how to carry them between functions, difficult but rewarding.
 
-**Link to work**: [Extentions.py] <!--(http://www.example.com)-->
+<!--**Link to work**: [Extentions.py](http://www.example.com)-->
 
 ### <u>Day 3: August 25, 2023</u>
 <!---##### (delete me or comment me out)--->
@@ -52,7 +52,7 @@
 
 **Thoughts**: I had problems solving my program. But it's all learning and I notice that I manage the problems I face better each time.
 
-**Link to work**: [Extentions.py](https://github.com/me50/Jordan-Walters-23/blob/cs50/problems/2022/python/extensions/extensions.py){:target="_blank"}
+**Link to work**: <a href="https://github.com/me50/Jordan-Walters-23/blob/cs50/problems/2022/python/extensions/extensions.py" target="_blank">Extentions.py</a>
 
 ### <u>Day 6: August 28, 2023</u>
 <!---##### (delete me or comment me out)--->
