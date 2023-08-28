@@ -52,7 +52,7 @@
 
 **Thoughts**: I had problems solving my program. But it's all learning and I notice that I manage the problems I face better each time.
 
-**Link to work**: [Extentions.py](https://github.com/me50/Jordan-Walters-23/blob/cs50/problems/2022/python/extensions/extensions.py)
+**Link to work**: [Extentions.py](https://github.com/me50/Jordan-Walters-23/blob/cs50/problems/2022/python/extensions/extensions.py){:target="_blank"}
 
 ### <u>Day 6: August 28, 2023</u>
 <!---##### (delete me or comment me out)--->
@@ -61,4 +61,13 @@
 
 **Thoughts**:
 
-<!--**Link to work**: [Extentions.py] (http://www.example.com)-->
+<!--**Link to work**: [Extentions.py](http://www.example.com)-->
+
+### <u>Day 7: August 29, 2023</u>
+<!---##### (delete me or comment me out)--->
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+<!--**Link to work**: [Extentions.py](http://www.example.com)-->
