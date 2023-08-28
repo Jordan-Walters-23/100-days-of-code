@@ -52,14 +52,16 @@
 
 **Thoughts**: I had problems solving my program. But it's all learning and I notice that I manage the problems I face better each time.
 
-**Link to work**: <a href="https://github.com/me50/Jordan-Walters-23/blob/cs50/problems/2022/python/extensions/extensions.py" target="_blank">Extentions.py</a>
+**Link to work**: [Extentions.py](https://github.com/me50/Jordan-Walters-23/blob/cs50/problems/2022/python/extensions/extensions.py)
+
 
 ### <u>Day 6: August 28, 2023</u>
 <!---##### (delete me or comment me out)--->
 
-**Today's Progress**: 
+**Today's Progress**: Continued to work on the freecodecamp HTML course in preparation for starting the "School of Code"
 
-**Thoughts**:
+
+**Thoughts**: I'm looking forward to the "School of Code". I've done some HTML, Js, and CSS during the application process, as well as C and Python in my own time. So far I enjoyed learning different languages. It will be interesting to see what languages are best for the increasingly difficult tasks I solve in the future.
 
 <!--**Link to work**: [Extentions.py](http://www.example.com)-->
 
