@@ -34,7 +34,7 @@
 
 **Thoughts**: There were a lot of learning moments, Times when a new method just clicked and my code ran correctly. It was valuable for me at my stage of learning to explore several ways to solve this problem.
 
-**Link to work**: [Extentions.py](http://www.com)
+**Link to work**: [Extentions.py](https://github.com/me50/Jordan-Walters-23/blob/cs50/problems/2022/python/extensions/extensions.py)
 
 ### <u>Day 4: August 26, 2023</u>
 <!---##### (delete me or comment me out)--->
@@ -46,6 +46,15 @@
 <!--**Link to work**: [Extentions.py] (http://www.example.com)-->
 
 ### <u>Day 5: August 27, 2023</u>
+<!---##### (delete me or comment me out)--->
+
+**Today's Progress**: I focussed on correctly organising the functions I created. I also added a 'bool( )' function to complete my program.
+
+**Thoughts**: I had problems solving my program. But it's all learning and I notice that I manage the problems I face better each time.
+
+**Link to work**: [Extentions.py](https://github.com/me50/Jordan-Walters-23/blob/cs50/problems/2022/python/extensions/extensions.py)
+
+### <u>Day 6: August 28, 2023</u>
 <!---##### (delete me or comment me out)--->
 
 **Today's Progress**: 
