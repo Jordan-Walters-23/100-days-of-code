@@ -7,7 +7,7 @@
 
 **Thoughts:** The solution came to me as soon as I scanned through my previous code. I think this is because taking a break allowed me to look at the code with a new perspective
 
-**Link to work:** [Bank.py](https://github.com/code50/128825567/blob/main/py/week1/bank/bank.py)
+**Link to work:** <a target="_blank" href="https://github.com/code50/128825567/blob/main/py/week1/bank/bank.py">Bank.py</a>
 
 ### <u>Day 1: August 23, 2023</u>
 <!---##### (delete me or comment me out)--->
@@ -34,7 +34,7 @@
 
 **Thoughts**: There were a lot of learning moments, Times when a new method just clicked and my code ran correctly. It was valuable for me at my stage of learning to explore several ways to solve this problem.
 
-**Link to work**: [Extentions.py](https://github.com/me50/Jordan-Walters-23/blob/cs50/problems/2022/python/extensions/extensions.py)
+**Link to work**: <a target="_blank" href="https://github.com/me50/Jordan-Walters-23/blob/cs50/problems/2022/python/extensions/extensions.py">Extentions.py</a>
 
 ### <u>Day 4: August 26, 2023</u>
 <!---##### (delete me or comment me out)--->
@@ -52,8 +52,7 @@
 
 **Thoughts**: I had problems solving my program. But it's all learning and I notice that I manage the problems I face better each time.
 
-**Link to work**: [Extentions.py](https://github.com/me50/Jordan-Walters-23/blob/cs50/problems/2022/python/extensions/extensions.py)
-
+**Link to work**: <a target="_blank" href="https://github.com/me50/Jordan-Walters-23/blob/cs50/problems/2022/python/extensions/extensions.py">Extentions.py</a>
 
 ### <u>Day 6: August 28, 2023</u>
 <!---##### (delete me or comment me out)--->
@@ -68,8 +67,17 @@
 ### <u>Day 7: August 29, 2023</u>
 <!---##### (delete me or comment me out)--->
 
+**Today's Progress**: I completed the first section of the freecodecamp responsive web design course "Learn HTML".
+
+**Thoughts**: Focussing on a front-end language required me to adjust my approach. It was easy to adapt because freecodecamp's course format was straightforward.
+
+<!--**Link to work**: [Extentions.py](http://www.example.com)-->
+
+### <u>Day 8: August 30, 2023</u>
+<!---##### (delete me or comment me out)--->
+
 **Today's Progress**: 
 
 **Thoughts**:
 
-<!--**Link to work**: [Extentions.py](http://www.example.com)-->
+<!--**Link to work**: [Name???](Link)-->
