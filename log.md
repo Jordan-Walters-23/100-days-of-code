@@ -76,6 +76,15 @@
 ### <u>Day 8: August 30, 2023</u>
 <!---##### (delete me or comment me out)--->
 
+**Today's Progress**: I continued working on freecodecamp responsive web design course, today was the introduction to CSS.
+
+**Thoughts**: This course was straightforward, just as yesterday was. I can see this course is designed to build foundational knowledge of web design. I'm looking forward to using it in projects.
+
+<!--**Link to work**: [Name???](Link)-->
+
+### <u>Day 9: August 31, 2023</u>
+<!---##### (delete me or comment me out)--->
+
 **Today's Progress**: 
 
 **Thoughts**:
