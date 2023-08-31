@@ -62,7 +62,7 @@
 
 **Thoughts**: I'm looking forward to the "School of Code". I've done some HTML, Js, and CSS during the application process, as well as C and Python in my own time. So far I enjoyed learning different languages. It will be interesting to see what languages are best for the increasingly difficult tasks I solve in the future.
 
-<!--**Link to work**: [Extentions.py](http://www.example.com)-->
+**Link to work**: [FreeCodeCamp](https://www.freecodecamp.org/learn)
 
 ### <u>Day 7: August 29, 2023</u>
 <!---##### (delete me or comment me out)--->
@@ -83,6 +83,15 @@
 <!--**Link to work**: [Name???](Link)-->
 
 ### <u>Day 9: August 31, 2023</u>
+<!---##### (delete me or comment me out)--->
+
+**Today's Progress**: Today I finished the introduction to CSS and started learning how to use colour markers.
+
+**Thoughts**: I noticed that I was getting the hang of writing HTML and CSS. I read the prompts and was able to recall the syntax.
+
+<!--**Link to work**: [Name???](Link)-->
+
+### <u>Day 10: Sept 1, 2023</u>
 <!---##### (delete me or comment me out)--->
 
 **Today's Progress**: 
