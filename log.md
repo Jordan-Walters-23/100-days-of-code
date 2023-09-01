@@ -94,7 +94,16 @@
 ### <u>Day 10: Sept 1, 2023</u>
 <!---##### (delete me or comment me out)--->
 
-**Today's Progress**: 
+**Today's Progress**: I continued with the FreeCodeCamp responsive web design course "learn CSS colors by building a set of colored markers"
+
+**Thoughts**:
+
+<!--**Link to work**: [Name???](Link)-->
+
+### <u>Day 11: Sept 2, 2023</u>
+<!---##### (delete me or comment me out)--->
+
+**Today's Progress**:  
 
 **Thoughts**:
 
