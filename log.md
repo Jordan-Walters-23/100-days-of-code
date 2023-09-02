@@ -103,6 +103,15 @@
 ### <u>Day 11: Sept 2, 2023</u>
 <!---##### (delete me or comment me out)--->
 
+**Today's Progress**: I continued with the FreeCodeCamp responsive web design course "Learn CSS colors by building a set of colored markers". The part of the course I did today focused on using color gradients in CSS classes.
+
+**Thoughts**:
+
+<!--**Link to work**: [Name???](Link)-->
+
+### <u>Day 12: Sept 3, 2023</u>
+<!---##### (delete me or comment me out)--->
+
 **Today's Progress**:  
 
 **Thoughts**:
