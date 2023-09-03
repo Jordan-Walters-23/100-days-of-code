@@ -112,6 +112,15 @@
 ### <u>Day 12: Sept 3, 2023</u>
 <!---##### (delete me or comment me out)--->
 
+**Today's Progress**: I continued with the FreeCodeCamp responsive web design course "Learn CSS colors by building a set of colored markers".
+
+**Thoughts**: I am excited to start the School of code bootcamp tomorrow
+
+<!--**Link to work**: [Name???](Link)-->
+
+### <u>Day 13: Sept 4, 2023</u>
+<!---##### (delete me or comment me out)--->
+
 **Today's Progress**:  
 
 **Thoughts**:
