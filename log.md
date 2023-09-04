@@ -114,11 +114,20 @@
 
 **Today's Progress**: I continued with the FreeCodeCamp responsive web design course "Learn CSS colors by building a set of colored markers".
 
-**Thoughts**: I am excited to start the School of code bootcamp tomorrow
+**Thoughts**: I am excited to start the School of code .bootcamp tomorrow
 
 <!--**Link to work**: [Name???](Link)-->
 
 ### <u>Day 13: Sept 4, 2023</u>
+<!---##### (delete me or comment me out)--->
+
+**Today's Progress**: Today was the start of my School of Code journey. We did some group coding in CSS as well as focussing on methods to learn efficiently
+
+**Thoughts**: I was slightly nervous this morning. Some exercise got rid of all the nerves, I was calm by the time I started. It was nice to meet people from different walks of life that had a common goal.
+
+<!--**Link to work**: [Name???](Link)-->
+
+### <u>Day 14: Sept 5, 2023</u>
 <!---##### (delete me or comment me out)--->
 
 **Today's Progress**:  
