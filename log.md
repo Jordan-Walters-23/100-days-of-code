@@ -130,7 +130,16 @@
 ### <u>Day 14: Sept 5, 2023</u>
 <!---##### (delete me or comment me out)--->
 
-**Today's Progress**:  
+**Today's Progress**: We practised using git commands to work from our team repositories. We used git clone, add, commit, push, pull, branch and switch. There were also some useful resources on W3Schools.
+
+**Thoughts**: I'm getting increasingly more comfortable learning and coding in a team. It makes it possible to learn a subject from several perspectives because of the constant discussion.
+
+<!--**Link to work**: [Name???](Link)-->
+
+### <u>Day 15: Sept 6, 2023</u>
+<!---##### (delete me or comment me out)--->
+
+**Today's Progress**: 
 
 **Thoughts**:
 
