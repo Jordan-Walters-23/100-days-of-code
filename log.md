@@ -139,6 +139,15 @@
 ### <u>Day 15: Sept 6, 2023</u>
 <!---##### (delete me or comment me out)--->
 
+**Today's Progress**: Today at school of code we had a guest speaker that "Ira Rainey" that talked us through his journey in the tech industry. It was uplifting to hear the story of a successfull developer that didn't come from a degree background. We also did team excercises as several points in the day. In which we learned to use an agile aproach.
+
+**Thoughts**: I enjoyed the challenge of communicating detailed information to team mates. It made us think as one. The team was strong because we elevated eachother 
+
+<!--**Link to work**: [Name???](Link)-->
+
+### <u>Day 16: Sept 7, 2023</u>
+<!---##### (delete me or comment me out)--->
+
 **Today's Progress**: 
 
 **Thoughts**:
