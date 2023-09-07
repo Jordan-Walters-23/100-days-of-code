@@ -146,7 +146,15 @@
 <!--**Link to work**: [Name???](Link)-->
 
 ### <u>Day 16: Sept 7, 2023</u>
-<!---##### (delete me or comment me out)--->
+
+**Today's Progress**: This morning we did group coding using HTML. one person was picked out of the cohort at a time to add a line. I also learned about MVP (Minimum viable product), this added to my knowledge of iterative design from previousse days. The focus is on building increasingly defined products, not parts of a project.
+
+**Thoughts**: These subjects stretched my perseption of project planning and gave me new tools to use in a group build setting.
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+### <u>Day 17: Sept 8, 2023</u>
 
 **Today's Progress**: 
 
