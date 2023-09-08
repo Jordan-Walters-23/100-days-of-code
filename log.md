@@ -156,6 +156,16 @@
 
 ### <u>Day 17: Sept 8, 2023</u>
 
+**Today's Progress**: We had a guest talk from Site reliability engineer and School of Code alumni Dave Adams. He talked to us about his job progression after SoC. We spent the rest of the day in our first hackathon working in teams of 3 to create and execute an agile plan.
+
+**Thoughts**: Today was challenging, the erge to make the project more complex or creative was always there. Regardless we stuck to the plan and built the funcional MVP first. After that we increased the specificity.
+
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+### <u>Day 18: Sept 9, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**:
