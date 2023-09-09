@@ -166,6 +166,15 @@
 
 ### <u>Day 18: Sept 9, 2023</u>
 
+**Today's Progress**: I worked through the Freecode camp Javascript tutorials to familiarise myself with the language. Then I looked on W3schools to read some examples of JS being used in HTML. 
+
+**Thoughts**: Reading code examples was a useful exercise. I like seeing JS's function in real applications. 
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+### <u>Day 19: Sept 10, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**:
