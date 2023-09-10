@@ -172,8 +172,16 @@
 
 <!--**Link to work**: [Name???](Link)-->
 
-
 ### <u>Day 19: Sept 10, 2023</u>
+
+**Today's Progress**: I continued working through the Freecodecamp Javascript tutorials. 
+
+**Thoughts**: I think learning JavaScript is similar to learning Python. They are both straight forward languages to read
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+### <u>Day 20: Sept 11, 2023</u>
 
 **Today's Progress**: 
 
