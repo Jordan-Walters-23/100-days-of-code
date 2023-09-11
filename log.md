@@ -188,3 +188,12 @@
 **Thoughts**:
 
 <!--**Link to work**: [Name???](Link)-->
+
+
+### <u>Day 21: Sept 12, 2023</u>
+
+**Today's Progress**: Today, we had a talk about giving feedback effectivly, some important pionts were raised. Then we got stuck into Javescript, we worked through the excersises set out for us in a GitHub repo, taking turns to share our screens and work through the problems. 
+
+**Thoughts**: I had underlying nerves in anticipation of meeting my group for this week It was less so than last week, which is progress. working with my new team was great. We had some good discussions and bounced ideas off of each other.  
+
+<!--**Link to work**: [Name???](Link)-->
