@@ -199,7 +199,16 @@
 <!--**Link to work**: [Name???](Link)-->
 
 
-### <u>Day 23: Sept 13, 2023</u>
+### <u>Day 22: Sept 13, 2023</u>
+
+**Today's Progress**: Today, we had a talk from two employees of an SoC partner company. One speaker was also an Soc alumni. It was reassuring to hear that the transition from the boot camp to a tech role was smooth and that the methods taught are used similarly in industry. We spent the rest of the day learning about and using arrays in JS.
+
+**Thoughts**: Today's group coding clicked for me. Not solving every logical problem alone wasn't a disadvantage. I found I could follow the thought process of my teammates and use it to add to the next problem we faced.
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+### <u>Day 23: Sept 14, 2023</u>
 
 **Today's Progress**: 
 
