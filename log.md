@@ -210,6 +210,15 @@
 
 ### <u>Day 23: Sept 14, 2023</u>
 
+**Today's Progress**: We learned about objects today, we did things such as selecting a key value to log, changing an object keys value. Nesting objects in an object. Later on that day we tested out the skills we learnt.  
+
+**Thoughts**: I had some computer problems today so i didnt get the opportunity to pick up as much as I wanted. Regardless, it was valuable. I'll be able to fill in my knowledge over the next few days. 
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+### <u>Day 24: Sept 15, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**:  
