@@ -219,6 +219,15 @@
 
 ### <u>Day 24: Sept 15, 2023</u>
 
+**Today's Progress**: Today was our second hackathon. We were tasked with making a rock paper scissors game. We strictly focussed on our MVP then started adding some more desirable features. First we built  a 2 player game that compares choice and displays a winner. We proceeded to add a score counter and computer opponent.
+
+**Thoughts**: Today was challenging. Despite that, I felt more confident with the task and pace of work. I apreciete the oppertunity to present each week, I hope to improve throughout my time on this bootcamp.
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+### <u>Day 25: Sept 16, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**:  
