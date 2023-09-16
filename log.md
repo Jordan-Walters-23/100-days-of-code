@@ -228,6 +228,15 @@
 
 ### <u>Day 25: Sept 16, 2023</u>
 
+**Today's Progress**: Today I designed the front end of a personal project, in draw.io. That way I'll have a clear understanding of what to code. I also worked through my team's Hackathon program, changing the code to find alternative solutions
+
+**Thoughts**:  It was fun to do some visual design work. My time management could have been better today I didnt have defined goals to work to.
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+### <u>Day 26: Sept 17, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**:  
