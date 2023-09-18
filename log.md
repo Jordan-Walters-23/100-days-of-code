@@ -235,7 +235,19 @@
 <!--**Link to work**: [Name???](Link)-->
 
 
-### <u>Day 26: Sept 17, 2023</u>
+<b><i>1 Day missed.</i></b>
+
+
+### <u>Day 26: Sept 18, 2023</u>
+
+**Today's Progress**: Today we learnt how to debug code. This was familiar to me from debugging my CS50 assignments. It was new debugging from the browser and a valuable lesson because that's ultimately where my code will be run.
+
+**Thoughts**: Mondays at the School of Code are always exciting, It's when you meet your group for the week and begin to learn each other's working/learning styles, in preparation for the hackathon.
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+### <u>Day 27: Sept 19, 2023</u>
 
 **Today's Progress**: 
 
