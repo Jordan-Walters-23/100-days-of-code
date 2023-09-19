@@ -249,9 +249,9 @@
 
 ### <u>Day 27: Sept 19, 2023</u>
 
-**Today's Progress**: We pair programmed through some kata in Code wars. Our focus was breaking the problem down to its simplist form, in pseudo code. So it equaled one line of code or a simple google search. We spent the afternoon changing the DOM of a webpage with js string methods. tomorrow we'll put this into practical use.
+**Today's Progress**: We pair programmed through some kata in Code Wars. Our focus was breaking the problem down to its simplest form, in pseudo-code. So it equaled one line of code or a simple Google search. We spent the afternoon changing the DOM of a webpage with js string methods. tomorrow we'll put this into practical use.
 
-**Thoughts**: I enjoyed practicing breaking down problems with pseudo code. I found changing the appearance of the DOM difficult to get the hang of. It will come with practice and understanding its purpose.
+**Thoughts**: I enjoyed practising breaking down problems with pseudo code. I found changing the appearance of the DOM difficult to get the hang of. It will come with practice and understanding its purpose.
 
 
 <!--**Link to work**: [Name???](Link)-->
