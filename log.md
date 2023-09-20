@@ -259,8 +259,17 @@
 
 ### <u>Day 28: Sept 20, 2023</u>
 
-**Today's Progress**: 
+**Today's Progress**: We focussed on using events in JS to interact with the DOM and create some functionality on our web pages. Today's content answered a lot of questions from yesterday's topics.
 
-**Thoughts**:  
+**Thoughts**: I found this challenging. On the bright side, there were a lot of learning moments.
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+### <u>Day 29: Sept 21, 2023</u>
+
+**Today's Progress**:
+
+**Thoughts**:
 
 <!--**Link to work**: [Name???](Link)-->
