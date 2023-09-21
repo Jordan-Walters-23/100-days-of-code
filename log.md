@@ -268,6 +268,15 @@
 
 ### <u>Day 29: Sept 21, 2023</u>
 
+**Today's Progress**: We were introduced to APIs and were given the challenge of using an API in our program with the fetch method, asynchronous functions, and "await response"
+
+**Thoughts**: Today was another difficult day. This evening I've done further practice on the subjects from this week and will add them to my weekend study.
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+### <u>Day 30: Sept 22, 2023</u>
+
 **Today's Progress**:
 
 **Thoughts**:
