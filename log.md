@@ -275,7 +275,17 @@
 <!--**Link to work**: [Name???](Link)-->
 
 
+
 ### <u>Day 30: Sept 22, 2023</u>
+
+**Today's Progress**: Today was week 3's hackathon, we took on a lot of information. The challenge was implementing all of it in our project. We managed to use an API to display London's weather forecast on our web page.
+
+**Thoughts**: I'm happy with the way I presented our team's project, preparation and reflection are what improved my presentation. I think we could have got further as a team if we thought collaboratively and built on each other's ideas.
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+### <u>Day 31: Sept 23, 2023</u>
 
 **Today's Progress**:
 
