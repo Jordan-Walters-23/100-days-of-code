@@ -287,6 +287,24 @@
 
 ### <u>Day 31: Sept 23, 2023</u>
 
+**Today's Progress**: Today I started building the HTML and CSS for a personal project. This will be the front end for a smart alarm product. It’s my first time building a mobile app. i’m looking forward to the process.
+
+**Thoughts**: I spent some time Preparing for the weak a head by looking at some examples of front-end HTML and CSS for mobile apps. It was interesting to see all of the possibilities
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+### <u>Day 32: Sept 24, 2023</u>
+
+**Today's Progress**: Yesterday, I did a recap on the subjects we covered this week. Then I carried on working on my personal project I built a toggle from examples I found and read.
+
+**Thoughts**: It was Encouraging to build front end programs which resembled parts of apps I use day to day.
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+### <u>Day 33: Sept 25, 2023</u>
+
 **Today's Progress**:
 
 **Thoughts**:
