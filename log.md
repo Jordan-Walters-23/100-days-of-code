@@ -305,8 +305,19 @@
 
 ### <u>Day 33: Sept 25, 2023</u>
 
+**Today's Progress**: Today we learnt about JSON files and Importing/exporting functions. We then did group coding in a workshop so we could practice. We made a function in a JS file that used an array of objects From a JSON file.
+
+**Thoughts**: Today I was outside of my comfort zone just as the course intended. There were a lot of learning moments. For the first time, I used ChatGPT to clean up my code and explain it to me. It managed to pick up some of the simple mistakes I made.  On this occasion, our code was not too far from the correct solution and I've had my knowledge of syntax rules reinforced. 
+
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+### <u>Day 33: Sept 25, 2023</u>
+
 **Today's Progress**:
 
-**Thoughts**:
+**Thoughts**: 
+
 
 <!--**Link to work**: [Name???](Link)-->
