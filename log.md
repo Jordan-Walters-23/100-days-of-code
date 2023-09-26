@@ -315,6 +315,16 @@
 
 ### <u>Day 34: Sept 26, 2023</u>
 
+**Today's Progress**: Today we constructed a module with helper functions that handled CRUD operations for an inspirational quotes application.
+
+**Thoughts**: The tickets in this workshop were challenging for me, I paid close attention to the wording of each step. We came to a dead end and decided to rewrite the pseudo-code. After paying closer attention we found some changes we could make.
+
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+### <u>Day 35: Sept 27, 2023</u>
+
 **Today's Progress**:
 
 **Thoughts**: 
