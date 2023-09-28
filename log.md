@@ -325,6 +325,26 @@
 
 ### <u>Day 35: Sept 27, 2023</u>
 
+**Today's Progress**: Today we built CRUD functions that manipulated HTTP requests sent to the API. I found it difficult for this concept to sink in. After a day of talking through it with teammates and attempting the code, I understood it enough to write part of one.
+
+**Thoughts**: This is a concept I need to be persistent with. I'll keep chipping away until the idea sinks in.
+
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+### <u>Day 36: Sept 28, 2023</u>
+
+**Today's Progress**: Today we learnt about and built route handlers with our REST API's, it's the first project we've done and built up over several days. The code calls the CRUD functions we created yesterday depending on the HTTP request it receives and responds with the function output.
+
+**Thoughts**: It was rewarding to see a system we built over several days come together. I can't wait to use these Concepts in industry, as part of larger projects.
+
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+### <u>Day 37: Sept 29, 2023</u>
+
 **Today's Progress**:
 
 **Thoughts**: 
