@@ -345,6 +345,16 @@
 
 ### <u>Day 37: Sept 29, 2023</u>
 
+**Today's Progress**: We completed our fourth hackathon. I noticed my presenting skills improving as well as my nerves. It's rewarding to refine a previously acquired skill and prove to myself I can still do it. Our goal was to make an  API that could process CRUD requests.
+
+**Thoughts**: Considering how incomplete my knowledge of APIs was at the start of the week, I'm happy with the progress.
+
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+### <u>Day 38: Sept 30, 2023</u>
+
 **Today's Progress**:
 
 **Thoughts**: 
