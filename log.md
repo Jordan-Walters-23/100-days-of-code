@@ -355,6 +355,16 @@
 
 ### <u>Day 38: Sept 30, 2023</u>
 
+**Today's Progress**: I created and worked on my branch of Friday’s hackathon. I'm in the process of debugging. Doing this has given me a better understanding of the entire program.
+
+**Thoughts**: I feel more confident coding because of the daily effort I’ve put in over the last month. Debugging is less of a chore to me and more of a helpful iterative process towards an improved product.
+
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+### <u>Day 39: Oct 1, 2023</u>
+
 **Today's Progress**:
 
 **Thoughts**: 
