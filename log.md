@@ -365,6 +365,16 @@
 
 ### <u>Day 39: Oct 1, 2023</u>
 
+**Today's Progress**: I did some work to develop the front end of my iot smart alarm app. I'm unsure which side of software I enjoy more. I'm excited to start the back-end and hardware part of this project.
+
+**Thoughts**: My confidence in team programming as well as individually has been improving since I started the Bootcamp.
+
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+### <u>Day 40: Oct 2, 2023</u>
+
 **Today's Progress**:
 
 **Thoughts**: 
