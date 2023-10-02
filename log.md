@@ -365,7 +365,7 @@
 
 ### <u>Day 39: Oct 1, 2023</u>
 
-**Today's Progress**: I did some work to develop the front end of my iot smart alarm app. I'm unsure which side of software I enjoy more. I'm excited to start the back-end and hardware part of this project.
+**Today's Progress**: I did some work to develop the front end of my IoT smart alarm app. I'm unsure which side of software I enjoy more. I'm excited to start the back-end and hardware part of this project.
 
 **Thoughts**: My confidence in team programming as well as individually has been improving since I started the Bootcamp.
 
@@ -375,9 +375,21 @@
 
 ### <u>Day 40: Oct 2, 2023</u>
 
+**Today's Progress**: Today we were introduced to Relational databases and SQL. We worked through some exercises on SQL BOLT to get familiar with the language. In contrast to the back-end software I've been working on this language was very accessible and read very similarly to English.
+
+**Thoughts**: Today was enjoyable, it was nice to meet my team for the week. We got along really well and our learning styles complimented each other,  I think we’ll learn a lot as a team. 
+
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+### <u>Day 41: Oct 3, 2023</u>
+
 **Today's Progress**:
 
 **Thoughts**: 
 
 
 <!--**Link to work**: [Name???](Link)-->
+
+
