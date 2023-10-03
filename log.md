@@ -385,11 +385,17 @@
 
 ### <u>Day 41: Oct 3, 2023</u>
 
-**Today's Progress**:
+**Today's Progress**: We carried on working through exercises on SQL Bolt to get more familiar with navigating SQL.
 
-**Thoughts**: 
-
+**Thoughts**: Working in a team is very rewarding, this week so far I've noticed I have reinforced my knowledge by talking through concepts with teammates. It’s been useful for filling in our blind spots within a subject.
 
 <!--**Link to work**: [Name???](Link)-->
 
 
+### <u>Day 42: Oct 4, 2023</u>
+
+**Today's Progress**:
+
+**Thoughts**: 
+
+<!--**Link to work**: [Name???](Link)-->
