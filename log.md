@@ -394,6 +394,16 @@
 
 ### <u>Day 42: Oct 4, 2023</u>
 
+**Today's Progress**: After learning about SQL over the past two days, we started working on a program in node.js using additional packages to manipulate the database from Are code editors. It was good to see the practical application of this technology and be shown how we can combine it with our recently acquired skills.
+
+**Thoughts**: I felt very comfortable in the demos about the new Concepts we were learning, this would not have been the case two weeks ago so I'm glad to see personal growth. More recently I have noticed how challenging it can be to blend different working styles and also how rewarding it is to find commonalities and ways of working that we’re all happy with.
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+
+### <u>Day 43: Oct 5, 2023</u>
+
 **Today's Progress**:
 
 **Thoughts**: 
