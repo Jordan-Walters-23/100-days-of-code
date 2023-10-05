@@ -404,8 +404,22 @@
 
 ### <u>Day 43: Oct 5, 2023</u>
 
+**Today's Progress**: Today we built a database and API using elephantSQL and packages such as Express, Postgres and Dotenv. We tested by sending various requests using Thunder client. It was engaging to combine our SQL commands with awaited response variables.
+
+**Thoughts**: We made good progress today and established that moving forward everything didn’t need to be learnt at once. Instead, our knowledge of a subject would be filled in throughout each project’s course rather than in a linear fashion. 
+
+
+<!--**Link to work**: [Name???](Link)-->
+
+
+
+### <u>Day 44: Oct 6, 2023</u>
+
 **Today's Progress**:
 
 **Thoughts**: 
 
 <!--**Link to work**: [Name???](Link)-->
+
+
+
