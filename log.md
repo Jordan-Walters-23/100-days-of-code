@@ -415,11 +415,18 @@
 
 ### <u>Day 44: Oct 6, 2023</u>
 
+**Today's Progress**: Today we did our 5th hackathon. The brief was an evolution of the last hackathon, instead of making an API that read from a JSON file we made one that connected to a SQL database using the pooling connection method. Within a repo, we created a file with a script that creates database tables and populates them with content.  We then started building functions and handler routes to manage requests sent from Thunder client
+
+**Thoughts**: Today was the first Hackathon that I genuinely looked forward to. I enjoy the opportunity to measure my improvement each week.
+
+**Link to work**: [SQL database API](https://github.com/SchoolOfCode/bc15-w5-d5-hackathon-build-a-rest-api-with-postgres-team-13-week-5)
+
+
+
+### <u>Day 45: Oct 7, 2023</u>
+
 **Today's Progress**:
 
 **Thoughts**: 
 
-<!--**Link to work**: [Name???](Link)-->
-
-
-
+<!-- **Link to work**: [SQL database API](https://github.com/SchoolOfCode/bc15-w5-d5-hackathon-build-a-rest-api-with-postgres-team-13-week-5) -->
