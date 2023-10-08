@@ -425,8 +425,31 @@
 
 ### <u>Day 45: Oct 7, 2023</u>
 
-**Today's Progress**:
+**Today's Progress**: Today I reviewed my team's hackathon project and made some changes to better understand the code. I revisited SQL Bolt to practice SQL database manipulation and looked through this week’s school of code quizzes to strengthen my weak points.
+
+**Thoughts**: I wasn't looking forward to coding today due to other life stresses. Just coding something brought me into the mindset and left me enjoying the rest of my time learning. I'm glad this habit is taking root.
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 46: Oct 8, 2023</u>
+
+**Today's Progress**: Today I reinforced my knowledge of parameterized queries by writing code examples and depicting the concept visually in my notes. I also read the brief for the recap task I was set, we were introduced to the MVC design pattern and its advantages.
+
+**Thoughts**: I'm becoming more confident with my methods of note-taking and breaking down the concepts that were initially complex, into small understandable pieces. I find drawing the concept in a memorable way to work for me. From my research, I’ve found that dyslexic learners remember images better than text.
+
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 47: Oct 9, 2023</u>
+
+**Today's Progress**: 
 
 **Thoughts**: 
 
-<!-- **Link to work**: [SQL database API](https://github.com/SchoolOfCode/bc15-w5-d5-hackathon-build-a-rest-api-with-postgres-team-13-week-5) -->
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
