@@ -446,10 +446,18 @@
 
 ### <u>Day 47: Oct 9, 2023</u>
 
+**Today's Progress**: Today we learn about writing test code, the different types, and their uses. We practice writing test code using the vitest package in “node.js.” I finished the day by writing some HTML and CSS for a project I’m building outside of the boot camp.
+
+**Thoughts**: It’s another Monday so I met my team for the week, we got on well. It was nice to work with new people. On the first day, we are always adjusting to each other's learning styles.
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+### <u>Day 45: Oct 10, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
 <!-- **Link to work**: [SQL database API](https://github.com) -->
-
 
