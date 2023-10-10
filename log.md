@@ -453,11 +453,24 @@
 <!-- **Link to work**: [SQL database API](https://github.com) -->
 
 
-### <u>Day 45: Oct 10, 2023</u>
+### <u>Day 48: Oct 10, 2023</u>
+
+**Today's Progress**: Carried on with a workshop we started yesterday, it was focused on test-driven development. We followed the pattern of writing test code for the problem, then writing the minimal amount of code needed to pass that test, and finally refactoring our code meaning writing it more efficiently, while maintaining the same output/test results. 
+
+**Thoughts**: I find this workshop more challenging than previous ones. The school of code staff are deliberately giving us less help on these tasks because the Independent problem-solving that we're exposed to is what will make us effective developers in the future. It's a surprising change but I welcome it.
+
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+### <u>Day 49: Oct 11, 2023</u>
 
 **Today's Progress**: 
 
 **Thoughts**: 
 
 <!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
 
