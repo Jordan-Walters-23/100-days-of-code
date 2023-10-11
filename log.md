@@ -465,6 +465,17 @@
 
 ### <u>Day 49: Oct 11, 2023</u>
 
+**Today's Progress**: Today we learn how to write end-to-end tests. For this type of test understanding of the functional code isn’t needed because we're looking at how the user interacts with the front-end GUI. We made a test for a to-do list app that inputs a task. We checked the task had been added by using an assertion with a “.toHaveValue” method to check that our new value was stored.
+
+**Thoughts**: Today was challenging for me, it's one of the subjects that I don’t understand very well right now. This one will take some work and several revisits.
+
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 50: Oct 12, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**: 
