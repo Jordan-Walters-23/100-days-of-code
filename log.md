@@ -476,12 +476,20 @@
 
 ### <u>Day 50: Oct 12, 2023</u>
 
-**Today's Progress**: 
+**Today's Progress**: Today we built test code for an API, it is also the first integrated test I’ve written. The tests for each endpoint were similar. The main structure was to set up a test skeleton, create a variable that stores a request to what we're testing and an assertion to compare the response to what we expected. As the endpoints we were testing became more complex we started to call the reset database function from a different folder so that we knew we were working from the same point each time.
 
-**Thoughts**: 
+**Thoughts**: This was another difficult day. Still, I'm optimistic about this subject and coding in general because I didn't understand what we were working on yesterday anywhere near as much as I do now. My knowledge is growing with consistency and time. 
+
 
 <!-- **Link to work**: [SQL database API](https://github.com) -->
 
 
 
+### <u>Day 51: Oct 13, 2023</u>
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
 
