@@ -487,9 +487,18 @@
 
 ### <u>Day 51: Oct 13, 2023</u>
 
+**Today's Progress**: School of code week 6 complete. For our hackathon this week we were tasked with writing integrated tests for the API of a To-do app and an end-to-end test for the whole app. This task allowed me to practice using expect() to assert between an expected test result and the actual result. I also used various dot-notations to navigate to the front-end features through html.
+
+**Thoughts**: I found the structure of today's hackathon difficult as it was not like the other projects we'd built, we were solely testing. I found the group presentations to be helpful because we gained a deep understanding of the other group’s project and essentially compared notes.
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 52: Oct 14, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
 <!-- **Link to work**: [SQL database API](https://github.com) -->
-
