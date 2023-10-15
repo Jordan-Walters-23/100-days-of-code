@@ -495,7 +495,17 @@
 
 
 
-### <u>Day 52: Oct 14, 2023</u>
+### <u>Day 52: Oct 15, 2023</u>
+
+**Today's Progress**: Today I worked through exercises in js on exerism. It's not something I've been doing consistently. I will add it to my daily coding routine and see the benefit of consistent effort toward a single skill.
+
+**Thoughts**: I have a lot I want to learn in software. So I'm embracing the struggle and taking one problem at a time.
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 53: Oct 16, 2023</u>
 
 **Today's Progress**: 
 
