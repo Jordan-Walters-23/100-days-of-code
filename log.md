@@ -507,6 +507,17 @@
 
 ### <u>Day 53: Oct 16, 2023</u>
 
+**Today's Progress**: Today we learnt about product-driven development and why it benefits companies and employees. I ended the Day by doing some more work on exercism, I like that it challenges my version of the solution and suggests alternative more optimal ones.
+
+**Thoughts**: I've been thinking about what will drive me in this new profession once coding isn’t as challenging as it is right now. That's where the purpose of the projects I’m working on, their intention and impact, will be highlighted most.
+
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 54: Oct 17, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**: 
