@@ -518,6 +518,16 @@
 
 ### <u>Day 54: Oct 17, 2023</u>
 
+**Today's Progress**: Today we created surveys to aid in understanding a problem. We also built personas for the most likely individuals that would experience this problem. We were introduced to 
+wireframe UI designs as a starting point for building a solution. I spent the evening working through katas on codeWars.
+
+**Thoughts**: Code Wars is a good way for me to reinforce my JavaScript fundamentals knowledge using spaced repetition 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+### <u>Day 55: Oct 18, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**: 
