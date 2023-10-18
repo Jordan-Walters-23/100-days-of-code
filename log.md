@@ -528,6 +528,15 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 55: Oct 18, 2023</u>
 
+**Today's Progress**: Today we designed wireframes for our app ideas. We also had a demo about HTML and CSS design from the perspective of a UI designer. They built a low-fidelity wireframe with code and gradually refined the details Into a usable website. I continued with codewars this evening. 
+
+**Thoughts**: This week I've had to think a lot differently as we are not working on a lot of functional code. We’re focusing on user experience, getting people's perspective and designing an optimal product.
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+### <u>Day 56: Oct 19, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**: 
