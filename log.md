@@ -537,6 +537,16 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 56: Oct 19, 2023</u>
 
+**Today's Progress**: Our hackathon for this week spans over two days, We have been tasked with recreating the BBC sports page using HTML and CSS, As a stretch goal we can add functionality with JavaScript. 
+
+**Thoughts**: It's nice to use a different set of skills, observing in a slightly different way. After a few days of finding a solution and wire-framing ideas, I can see how to define the problem and start to create the solution.
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 57: Oct 20, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**: 
