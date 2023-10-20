@@ -547,8 +547,20 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 57: Oct 20, 2023</u>
 
+**Today's Progress**: Today we finished our two-day hackathon, We got to a point where our site looked not identical but similar to the BBC Sports home page. Most importantly we learned how to quickly build a wireframe and add detail with each scan over the page.
+
+
+**Thoughts**: This week I experienced how effective it is to set guidelines for working practices within a team. It was harmonious because everybody agreed to the guidelines we set out for each other throughout the week.
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 58: Oct 21, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
 <!-- **Link to work**: [SQL database API](https://github.com) -->
+
