@@ -558,7 +558,18 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 58: Oct 21, 2023</u>
 
-**Today's Progress**: 
+**Today's Progress**: Today I did some HTML and CSS on a project I’m working on outside of the school of code, it was nice to use the working style I practised in the week to build a wireframe for my idea. I also spent some time on codeWars. 
+
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 59: Oct 22, 2023</u>
+
+**Today's Progress**:
 
 **Thoughts**: 
 
