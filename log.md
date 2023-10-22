@@ -569,6 +569,15 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 59: Oct 22, 2023</u>
 
+**Today's Progress**: I continued the HTML and CSS for the smart alarm project I’m working on. I focused on the circular slider today. I researched and tested two methods. Changing the appearance of a slider with CSS, and using CSS and JavaScript DOM minipilation. I want to further explore the former option because it is closest to my current knowledge.
+
+**Thoughts**: Between the two types of programmig I definitely feel more comfortable with dynamic languages compared to markup languages. I like being able to test the logic of my code.  I am starting to enjoy HTML and CSS more, the outcomes are impressive
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+### <u>Day 60: Oct 23, 2023</u>
+
 **Today's Progress**:
 
 **Thoughts**: 
