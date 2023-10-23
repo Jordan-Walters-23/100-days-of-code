@@ -578,6 +578,16 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 60: Oct 23, 2023</u>
 
+**Today's Progress**: We are in the planning stage of our mid-term projects so I didn't do any coding in the day. I spent the evening reworking the repos I did in previous weeks. I decided to focus on fetch and asynchronous functions. 
+
+**Thoughts**: It's nice to see the growth in my knowledge. I haven't made the time to revisit this subject since a couple of weeks after first learning it but the understanding I've gained in coding since has helped me to grasp these concepts.
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 61: Oct 24, 2023</u>
+
 **Today's Progress**:
 
 **Thoughts**: 
