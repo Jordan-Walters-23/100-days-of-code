@@ -588,6 +588,16 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 61: Oct 24, 2023</u>
 
+**Today's Progress**: We started building the MVP for our week-long project. It consisted of setting up our back-end repo, installing the dependencies, and testing our SQL commands. This evening, I researched and tested CORS on a previous repo.
+
+**Thoughts**: Today went smoothly, as a team we found our groove.  My intention is to maintain our healthy working practices.
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 62: Oct 25, 2023</u>
+
 **Today's Progress**:
 
 **Thoughts**: 
