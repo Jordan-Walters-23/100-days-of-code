@@ -598,9 +598,17 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 62: Oct 25, 2023</u>
 
-**Today's Progress**:
+**Today's Progress**: Today I worked in the back-end team, for our week-long Project. We spent the day setting up our rest API, ready to connect with the front-end team’s repo, we will be using the CORS package.
 
 **Thoughts**: 
 
 <!-- **Link to work**: [SQL database API](https://github.com) -->
 
+
+### <u>Day 63: Oct 26, 2023</u>
+
+**Today's Progress**:
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
