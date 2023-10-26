@@ -607,6 +607,19 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 63: Oct 26, 2023</u>
 
+**Today's Progress**: Today we finished our POST request code in our API and familiarised ourselves with CORS middleware. The whole team came together at several points in the day to test the connection between the repos. There were some adjustments we needed to make so that our API could receive from and respond to the front end in the right format.
+
+
+**Thoughts**: Working in a team of six has been more challenging. This is the first time we've needed to branch and merge to be able to work on a project simultaneously. To keep on top of people's changes is difficult. The time pressure of building our project in two days also adds some difficulty.
+
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+
+### <u>Day 64: Oct 27, 2023</u>
+
 **Today's Progress**:
 
 **Thoughts**: 
