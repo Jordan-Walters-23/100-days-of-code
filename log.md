@@ -620,6 +620,26 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 64: Oct 27, 2023</u>
 
+**Today's Progress**: Today I started the morning by looking over the front-end team’s code to familiarize myself. This included making my own branch and trying to build additional features. I spent the rest of the day with my team at the School of Code preparing to present our midterm projects.
+
+**Thoughts**: After an especially intense week of collaboration, I am happy with how the team came together and presented our finished MVP.
+
+**Link to work**: [mid-term project linked in post](https://www.linkedin.com/posts/jordan-w-66aa96151_mid-term-project-this-week-at-the-activity-7124075829495541760-BQQ0?utm_source=share&utm_medium=member_desktop)
+
+
+
+### <u>Day 65: Oct 28, 2023</u>
+
+**Today's Progress**:
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 66: Oct 29, 2023</u>
+
 **Today's Progress**:
 
 **Thoughts**: 
