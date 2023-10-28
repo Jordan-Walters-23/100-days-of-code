@@ -617,7 +617,6 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 
 
-
 ### <u>Day 64: Oct 27, 2023</u>
 
 **Today's Progress**: Today I started the morning by looking over the front-end team’s code to familiarize myself. This included making my own branch and trying to build additional features. I spent the rest of the day with my team at the School of Code preparing to present our midterm projects.
@@ -630,7 +629,7 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 65: Oct 28, 2023</u>
 
-**Today's Progress**:
+**Today's Progress**: After looking at the front-end team’s code from my midterm project,  I used codepen.io to understand and further build some code examples in HTML. Now I have a more rounded understanding of this week's Project
 
 **Thoughts**: 
 
