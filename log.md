@@ -639,7 +639,17 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 66: Oct 29, 2023</u>
 
-**Today's Progress**:
+**Today's Progress**: Today I solved an unfinished kata. I enjoy codewars as I  learn a lot from comparing my solutions to others. For this kata, I had to find a  letter grade for a number score. I understood the logic. The syntax is what tripped me up. Another kata solved
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 67: Oct 30, 2023</u>
+
+**Today's Progress**: 
 
 **Thoughts**: 
 
