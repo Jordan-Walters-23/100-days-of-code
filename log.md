@@ -649,6 +649,17 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 67: Oct 30, 2023</u>
 
+**Today's Progress**: I ranked my understanding of the subjects covered in the last 7 weeks so I could practice my weak points. Our group found that we all wanted to Practice MVC design so we broke down the file structure then I wrote some code to fit each file's purpose.
+
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 68: Oct 31, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**: 
