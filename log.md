@@ -660,6 +660,17 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 68: Oct 31, 2023</u>
 
+**Today's Progress**: For the last day and a half, I’ve been doing a learning audit. I recapped some of my learnings from the last 7 weeks, mainly timer APIs, DOM manipulation and testing. I spent some time after the boot camp on codewars. Lesson of the day, Keep It Simple. 
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+
+### <u>Day 69: Nov 01, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**: 
