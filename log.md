@@ -671,6 +671,16 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 69: Nov 01, 2023</u>
 
+**Today's Progress**: Today we learnt about the history of deployment and how to deploy using host services like render and vercel. We then deployed our mid-term projects and altered our code by adding variables that store port and host information. I finished the day with some codewar kata.
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 70: Nov 02, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**: 
