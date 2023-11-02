@@ -681,6 +681,17 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 70: Nov 02, 2023</u>
 
+**Today's Progress**: Today we learned about AWS using their cloud quest game. We used S3 and EC2. Later on in the day, I managed to work on a kata in code wars. I am currently splitting my attention outside of the course between projects and codewars to prepare for Interviews.
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+
+### <u>Day 71: Nov 03, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**: 
