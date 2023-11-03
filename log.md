@@ -689,8 +689,17 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 
 
-
 ### <u>Day 71: Nov 03, 2023</u>
+
+**Today's Progress**: We were set our toughest hackathon so far, make a full-stack app with CRUD functionality and a unique front-end. We decided to build a note-taking app with post and get requests. While doing this exercise we recognized how far we'd come from last week.
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 72: Nov 04, 2023</u>
 
 **Today's Progress**: 
 
