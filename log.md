@@ -701,6 +701,17 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 72: Nov 04, 2023</u>
 
+**Today's Progress**: I made my own branch from this Friday’s hackathon and remade the UI so I could familiarize myself with grids in CSS and even listeners in JS. Next week we are being introduced to React. 
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+
+### <u>Day 73: Nov 05, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**: 
