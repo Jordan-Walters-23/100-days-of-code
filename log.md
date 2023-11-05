@@ -712,6 +712,16 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 73: Nov 05, 2023</u>
 
+**Today's Progress**: Today I revised subjects I've learnt over the last 9 weeks by working through the previous Repo workshops. After that I started a Kata in codewars. It was more difficult than usual and took more research. These challenges let me know I’m progressing.
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 74: Nov 06, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**: 
