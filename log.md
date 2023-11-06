@@ -722,6 +722,16 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 74: Nov 06, 2023</u>
 
+**Today's Progress**: The boot camp was introduced to react. We designed our last code using DOM manipulation(a counting app) to see how efficient React is in comparison. I ended the day by learning the first steps of coding in React, exporting functions from the App.js file.
+
+**Thoughts**: It was nice to meet my new team today, we are all very similar, all of us understand when we want to read independently and when we want to collaborate.
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 75: Nov 07, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**: 
