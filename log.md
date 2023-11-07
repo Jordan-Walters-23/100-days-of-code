@@ -732,6 +732,16 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 75: Nov 07, 2023</u>
 
+**Today's Progress**: In teams, we used React to build a flashcard app, during which we learned about .jlx, fragment tags and how they aren’t reflected in the dom. They came in handy for grouping tags into one component. I'm looking forward to building more with React.
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 76: Nov 08, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**: 
