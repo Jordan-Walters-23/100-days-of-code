@@ -742,6 +742,16 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 76: Nov 08, 2023</u>
 
+**Today's Progress**: We were introduced to prop and state in React. I am in the process of building two states for flashcards in the flashcard app. Sates are something I need to understand how to use more effectively. 
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 77: Nov 09, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**: 
