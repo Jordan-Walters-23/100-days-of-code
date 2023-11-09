@@ -752,6 +752,17 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 77: Nov 09, 2023</u>
 
+**Today's Progress**: We spent the morning continuing to make our flashcard Apps. The rest of the day, we had an in-depth react fundamentals demo. After the boot camp, I designed a React UI and drew a component tree. From this, I made a low-fidelity wireframe as practice. 
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+
+### <u>Day 78: Nov 10, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**: 
