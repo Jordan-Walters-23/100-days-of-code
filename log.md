@@ -235,7 +235,9 @@
 <!--**Link to work**: [Name???](Link)-->
 
 
-<b><i>1 Day missed.</i></b>
+
+#### BREAK
+
 
 
 ### <u>Day 26: Sept 18, 2023</u>
@@ -493,6 +495,8 @@
 
 <!-- **Link to work**: [SQL database API](https://github.com) -->
 
+
+#### BREAK
 
 
 ### <u>Day 52: Oct 15, 2023</u>
@@ -762,6 +766,18 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 
 ### <u>Day 78: Nov 10, 2023</u>
+
+**Today's Progress**: Today I continued building a REACT app. I started off by drawing another component tree. I read through the react documentation and applied the methods to my app, methods such as .map( ) and "require(' ')".
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+#### BREAK
+
+
+### <u>Day 79: Nov 12, 2023</u>
 
 **Today's Progress**: 
 
