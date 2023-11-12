@@ -779,8 +779,21 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 79: Nov 12, 2023</u>
 
+**Today's Progress**: Today I reinforced my knowledge of React. Since class-based components are found in legacy code, I spent time understanding how they are different from function-based components. I also revisited a workshop to try other methods of displaying object data.
+
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 80: Nov 13, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
 <!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
