@@ -781,7 +781,6 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 **Today's Progress**: Today I reinforced my knowledge of React. Since class-based components are found in legacy code, I spent time understanding how they are different from function-based components. I also revisited a workshop to try other methods of displaying object data.
 
-
 **Thoughts**: 
 
 <!-- **Link to work**: [SQL database API](https://github.com) -->
@@ -790,10 +789,18 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 80: Nov 13, 2023</u>
 
-**Today's Progress**: 
+**Today's Progress**: Today we were introduced to “useEffect” in React. We practised using it in a GitHub workshop. They mentioned reasons to use it such as rendering the page layout before retrieving any information like fetch which might take longer to load.
 
 **Thoughts**: 
 
 <!-- **Link to work**: [SQL database API](https://github.com) -->
 
 
+
+
+### <u>Day 81: Nov 14, 2023</u>
+
+**Today's Progress**:
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
