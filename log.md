@@ -800,7 +800,19 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 81: Nov 14, 2023</u>
 
-**Today's Progress**:
+**Today's Progress**: Today we were given 2 workshops. The first one was about custom hooks. We got to make Hooks with various functions like fetching from an API and (+)(-) from a counter app. Abstracting using the “use” function/hooks simplified the code. The second workshop focussed on “createContext” and “useContext”. Which will come in handy as our React apps start to contain more levels of child components. The method behind solving these workshops was explained to us in a demo. The clear and simple approach to writing functions prevented us from getting stuck in code we didn’t understand.  We wrote a pseudo code goal for the function then we broke it down into input output and algorithm, adjusting the values based on the specific problem we needed to solve. 
+
 **Thoughts**: 
 
 <!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 82: Nov 15, 2023</u>
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
