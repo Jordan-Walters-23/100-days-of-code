@@ -810,9 +810,19 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 82: Nov 15, 2023</u>
 
-**Today's Progress**: 
+**Today's Progress**: We revisited testing in React using jest. I focused on the parts specific to testing in React since they were new to me. Features like render and jest.fn( ). We wrote tests for the button and list item components on an app to familiarise ourselves.
 
 **Thoughts**: 
 
 <!-- **Link to work**: [SQL database API](https://github.com) -->
 
+
+
+
+### <u>Day 83: Nov 16, 2023</u>
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
