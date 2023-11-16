@@ -821,8 +821,20 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 83: Nov 16, 2023</u>
 
+**Today's Progress**: We were challenged with learning Next.js on our own to develop and deploy an app in 2 days. Day 1, we looked through the Next.js docs, planned, and set up our react component structure in a team of 6, my team is great it was brilliant working together
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+
+### <u>Day 84: Nov 17, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
 <!-- **Link to work**: [SQL database API](https://github.com) -->
+
