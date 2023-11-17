@@ -832,9 +832,19 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 84: Nov 17, 2023</u>
 
-**Today's Progress**: 
+**Today's Progress**: Today I revisited some concepts in React such as state, passing down props and useEffect dependencies. As well as learning more about next.js. Particularly the custom error handling, which is something I've not come across before.
 
 **Thoughts**: 
 
 <!-- **Link to work**: [SQL database API](https://github.com) -->
 
+
+
+
+### <u>Day 85: Nov 18, 2023</u>
+
+**Today's Progress**:
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
