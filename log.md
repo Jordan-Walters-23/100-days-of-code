@@ -843,6 +843,16 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 85: Nov 18, 2023</u>
 
+**Today's Progress**: Today I refactored code in a previous React app with my mentor. I can see how this skill proves valuable when working on larger projects. Going through my code again helped me understand the project better. Here’s a function I refactored.
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 86: Nov 19, 2023</u>
+
 **Today's Progress**:
 
 **Thoughts**: 
