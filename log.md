@@ -853,8 +853,19 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 86: Nov 19, 2023</u>
 
-**Today's Progress**:
+**Today's Progress**: Today completed some parts of previous workshops so I could better retain what I learnt. My boot camp encourages learning techniques such as spaced repetition because we’re picking up so many concepts in a short time. still working in React
 
 **Thoughts**: 
 
 <!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 87: Nov 20, 2023</u>
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
