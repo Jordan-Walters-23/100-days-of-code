@@ -863,9 +863,51 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 87: Nov 20, 2023</u>
 
+**Today's Progress**: This morning in a React app I started writing some code to display the objects I have in an array, one at a time with buttons for navigating through the items. Right now they are all displayed on one page using the .map() method. Any suggestions?
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+
+### <u>Day 88: Nov 21, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
 <!-- **Link to work**: [SQL database API](https://github.com) -->
 
+
+
+
+
+### <u>Day 89: Nov 22, 2023</u>
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 90: Nov 23, 2023</u>
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 91: Nov 24, 2023</u>
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
