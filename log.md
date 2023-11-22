@@ -874,7 +874,7 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 88: Nov 21, 2023</u>
 
-**Today's Progress**: 
+**Today's Progress**: I studied more React. My boot camp is fast-paced which I like. However this week I am studying independently. I wanted to spend more time on a subject that I needed to strengthen and work on one small part at a time.
 
 **Thoughts**: 
 
@@ -886,7 +886,7 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 89: Nov 22, 2023</u>
 
-**Today's Progress**: 
+**Today's Progress**: I arranged a recap meeting with a teammate from the previous week. We talked about the different types of authentication(session and token). I then started a GitHub workshop on the subject to see how it works in practice.
 
 **Thoughts**: 
 
