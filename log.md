@@ -896,7 +896,7 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 90: Nov 23, 2023</u>
 
-**Today's Progress**: 
+**Today's Progress**: Today I recapped with another bootcamper. They explained what they learnt about typescript(.ts) and authentication using supabase. We went through a GitHub workshop on .ts and built some examples of functions with different types declared
 
 **Thoughts**: 
 
