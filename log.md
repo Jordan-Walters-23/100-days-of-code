@@ -906,6 +906,26 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 91: Nov 24, 2023</u>
 
+**Today's Progress**: Today I focused on using state and custom hooks to advance my city facts app.
+
+**Thoughts**: Coding is well and truly become a habit
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 92: Nov 25, 2023</u>
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 93: Nov 26, 2023</u>
+
 **Today's Progress**: 
 
 **Thoughts**: 
