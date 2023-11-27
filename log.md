@@ -931,3 +931,66 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 **Thoughts**: 
 
 <!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+### <u>Day 94: Nov 27, 2023</u>
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+### <u>Day 95: Nov 28, 2023</u>
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+
+### <u>Day 96: Nov 29, 2023</u>
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+
+### <u>Day 97: Nov 30, 2023</u>
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+
+### <u>Day 98: Dec 01, 2023</u>
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+
+
+### <u>Day 99: Dec 02, 2023</u>
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+<!-- **Link to work**: [SQL database API](https://github.com) -->
+
+### 100 Days of code complete 0 - 99. I started it on "0" because I had just learnt about loop and array indices😆
