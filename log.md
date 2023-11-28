@@ -916,8 +916,7 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 92: Nov 25, 2023</u>
 
-**Today's Progress**: 
-
+**Today's Progress**: On Saturday I practised using objects in .ts. I looked at a friend's project for guidance, It's written in .ts and heavily uses objects. 
 **Thoughts**: 
 
 <!-- **Link to work**: [SQL database API](https://github.com) -->
@@ -926,7 +925,7 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 93: Nov 26, 2023</u>
 
-**Today's Progress**: 
+**Today's Progress**: On Sunday I practice js fundamentals on codewars
 
 **Thoughts**: 
 
@@ -935,7 +934,7 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 94: Nov 27, 2023</u>
 
-**Today's Progress**: 
+**Today's Progress**: Today I spent the morning working with my final project team to define a problem we can solve. I carried on learning React by adding to a previous app
 
 **Thoughts**: 
 
@@ -944,7 +943,7 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 95: Nov 28, 2023</u>
 
-**Today's Progress**: 
+**Today's Progress**: Today I focused on building some CSS and researched how to create animations within React Apps
 
 **Thoughts**: 
 
