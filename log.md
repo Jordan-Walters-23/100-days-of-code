@@ -954,7 +954,7 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 96: Nov 29, 2023</u>
 
-**Today's Progress**: 
+**Today's Progress**: Today I used CSS to style buttons on a React app. Later in the day as a project team, we researched CSS libraries like Chakra to use as a way of achieving continuity within the UI design
 
 **Thoughts**: 
 
