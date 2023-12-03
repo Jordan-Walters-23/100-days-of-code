@@ -976,7 +976,7 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 98: Dec 01, 2023</u>
 
-**Today's Progress**: 
+**Today's Progress**: Today I worked through a repo I’ve been added to, it’s built with .ts, React, NEXT.js and chakra. I was able to scan the repo, manually testing the functions that I understood to familiarising myself with the logic and file structure.
 
 **Thoughts**: 
 
@@ -986,10 +986,10 @@ wireframe UI designs as a starting point for building a solution. I spent the ev
 
 ### <u>Day 99: Dec 02, 2023</u>
 
-**Today's Progress**: 
+**Today's Progress**: For my final day, I researched the tech stack my team plans to use for our project, specifically Supabase and Firebase, as a boot camp we are less familiar with Firebase. I then did a kata on codewars to practice my js fundamentals.
 
 **Thoughts**: 
 
 <!-- **Link to work**: [SQL database API](https://github.com) -->
 
-### 100 Days of code complete 0 - 99. I started it on "0" because I had just learnt about loop and array indices😆
+### 100 Days of code complete 0 - 99. I started it on "0" because I had just learnt about loop and array indices. Steady progress has been made😆
